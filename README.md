@@ -109,7 +109,7 @@ app.config['MAIL_DEFAULT_SENDER'] = 'your-email@gmail.com'
 2. Generate an App Password (Google Account Settings → Security → App Passwords)
 3. Use the app password in the configuration
 
-## 📁 File Structure
+##  File Structure
 
 ```
 .
